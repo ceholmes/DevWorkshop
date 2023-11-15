@@ -1,0 +1,20 @@
+1) Similarities between companies:
+    Small pull requests are better than larger ones
+    Avoiding bottlenecks is very important
+   Differences:
+    Yelp emphasizes reviewing for test coverage while Microsoft does not
+    Microsoft focuses more on the human aspects (how to treat others in the review process) while the Yelp article focuses on technical aspects
+   Code review checklist:
+    -Avoid major changes
+    -Correctness
+    -Archtecture
+    -Communication
+    -Style
+    -Get it done quickly
+    -Small pull requests
+2) https://codereview.stackexchange.com/questions/287927/rock-paper-scissors-game
+    Reviewer gave concrete actionable items for the programmer to follow. Example code was provided
+3) https://codereview.stackexchange.com/questions/287912/another-merge-sort
+    The first answer seemed unhelpful. Their response was very short and the first item wasn't relevant or helpful to the programmer.
+    The reviwer should be more specific about what they want to see changed, the review below the first answer was much more in depth
+        and provided concrete examples of what to change.
